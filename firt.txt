@@ -1,1 +1,3 @@
 try to push the fist file to github
+
+from diango.shortcust imort 
